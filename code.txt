@@ -1,0 +1,302 @@
+use_synth :piano
+
+play 76, release: 0.857143
+sleep 0.21428575
+
+play 75, release: 1.07142875
+sleep 0.21428575
+
+play 76, release: 1.2857145
+sleep 0.21428575
+
+play 75, release: 1.50000025
+sleep 0.21428575
+
+play 76, release: 1.714286
+sleep 0.21428575
+
+play 71, release: 1.92857175
+sleep 0.21428575
+
+play 74, release: 2.1428575
+sleep 0.21428575
+
+play 72, release: 2.35714325
+sleep 0.21428575
+
+play 69, release: 2.571429
+sleep 0.64285725
+
+play 45, release: 2.571429
+sleep 0.21428575
+
+play 52, release: 2.78571475
+sleep 0.21428575
+
+play 57, release: 3.0000005
+sleep 0.21428575
+
+play 60, release: 3.21428625
+sleep 0.21428575
+
+play 64, release: 3.428572
+sleep 0.21428575
+
+play 69, release: 3.64285775
+sleep 0.21428575
+
+play 71, release: 3.8571435
+sleep 0.64285725
+
+play 40, release: 3.8571435
+sleep 0.21428575
+
+play 52, release: 4.07142925
+sleep 0.21428575
+
+play 56, release: 4.285715
+sleep 0.21428575
+
+play 64, release: 4.50000075
+sleep 0.21428575
+
+play 68, release: 4.7142865
+sleep 0.21428575
+
+play 71, release: 4.92857225
+sleep 0.21428575
+
+play 72, release: 5.142858
+sleep 0.64285725
+
+play 45, release: 5.142858
+sleep 0.21428575
+
+play 52, release: 5.35714375
+sleep 0.21428575
+
+play 57, release: 5.5714295
+sleep 0.21428575
+
+play 64, release: 5.78571525
+sleep 0.21428575
+
+play 76, release: 6.000001
+sleep 0.21428575
+
+play 75, release: 6.21428675
+sleep 0.21428575
+
+play 76, release: 6.4285725
+sleep 0.21428575
+
+play 75, release: 6.64285825
+sleep 0.21428575
+
+play 76, release: 6.857144
+sleep 0.21428575
+
+play 71, release: 7.07142975
+sleep 0.21428575
+
+play 74, release: 7.2857155
+sleep 0.21428575
+
+play 72, release: 7.50000125
+sleep 0.21428575
+
+play 69, release: 7.714287
+sleep 0.64285725
+
+play 45, release: 7.714287
+sleep 0.21428575
+
+play 52, release: 7.92857275
+sleep 0.21428575
+
+play 57, release: 8.1428585
+sleep 0.21428575
+
+play 60, release: 8.35714425
+sleep 0.21428575
+
+play 64, release: 8.57143
+sleep 0.21428575
+
+play 69, release: 8.78571575
+sleep 0.21428575
+
+play 71, release: 9.0000015
+sleep 0.64285725
+
+play 40, release: 9.0000015
+sleep 0.21428575
+
+play 52, release: 9.21428725
+sleep 0.21428575
+
+play 56, release: 9.428573
+sleep 0.21428575
+
+play 64, release: 9.64285875
+sleep 0.21428575
+
+play 72, release: 9.8571445
+sleep 0.21428575
+
+play 71, release: 10.07143025
+sleep 0.21428575
+
+play 69, release: 10.285716
+sleep 0.64285725
+
+play 45, release: 10.285716
+sleep 0.21428575
+
+play 52, release: 10.50000175
+sleep 0.21428575
+
+play 57, release: 10.7142875
+sleep 0.21428575
+
+play 76, release: 11.142859
+sleep 0.21428575
+
+play 75, release: 11.35714475
+sleep 0.21428575
+
+play 76, release: 11.5714305
+sleep 0.21428575
+
+play 75, release: 11.78571625
+sleep 0.21428575
+
+play 76, release: 12.000002
+sleep 0.21428575
+
+play 71, release: 12.21428775
+sleep 0.21428575
+
+play 74, release: 12.4285735
+sleep 0.21428575
+
+play 72, release: 12.64285925
+sleep 0.21428575
+
+play 69, release: 12.857145
+sleep 0.64285725
+
+play 45, release: 12.857145
+sleep 0.21428575
+
+play 52, release: 13.07143075
+sleep 0.21428575
+
+play 57, release: 13.2857165
+sleep 0.21428575
+
+play 60, release: 13.50000225
+sleep 0.21428575
+
+play 64, release: 13.714288
+sleep 0.21428575
+
+play 69, release: 13.92857375
+sleep 0.21428575
+
+play 71, release: 14.1428595
+sleep 0.64285725
+
+play 40, release: 14.1428595
+sleep 0.21428575
+
+play 52, release: 14.35714525
+sleep 0.21428575
+
+play 56, release: 14.571431
+sleep 0.21428575
+
+play 64, release: 14.78571675
+sleep 0.21428575
+
+play 68, release: 15.0000025
+sleep 0.21428575
+
+play 71, release: 15.21428825
+sleep 0.21428575
+
+play 72, release: 15.428574
+sleep 0.4285715
+
+play 45, release: 15.428574
+sleep 0.21428575
+
+play 52, release: 15.64285975
+sleep 0.21428575
+
+play 57, release: 15.8571455
+sleep 0.21428575
+
+play 64, release: 16.07143125
+sleep 0.21428575
+
+play 76, release: 16.285717
+sleep 0.21428575
+
+play 75, release: 16.50000275
+sleep 0.21428575
+
+play 76, release: 16.7142885
+sleep 0.21428575
+
+play 75, release: 16.92857425
+sleep 0.21428575
+
+play 76, release: 17.14286
+sleep 0.21428575
+
+play 71, release: 17.35714575
+sleep 0.21428575
+
+play 74, release: 17.5714315
+sleep 0.21428575
+
+play 72, release: 17.78571725
+sleep 0.21428575
+
+play 69, release: 18.000003
+sleep 0.4285715
+
+play 45, release: 18.000003
+sleep 0.21428575
+
+play 52, release: 18.21428875
+sleep 0.21428575
+
+play 57, release: 18.4285745
+sleep 0.21428575
+
+play 60, release: 18.64286025
+sleep 0.21428575
+
+play 64, release: 18.857146
+sleep 0.21428575
+
+play 69, release: 19.07143175
+sleep 0.21428575
+
+play 71, release: 19.2857175
+sleep 0.4285715
+
+play 40, release: 19.2857175
+sleep 0.21428575
+
+play 52, release: 19.50000325
+sleep 0.21428575
+
+play 56, release: 19.714289
+sleep 0.21428575
+
+play 64, release: 19.92857475
+sleep 0.21428575
+

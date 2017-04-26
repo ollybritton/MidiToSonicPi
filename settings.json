@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "path": "data.json",
+    "synth": "piano",
+    "speed_multiplier": 1,
+    "pretty": "true",
+    "cutoff": 100
+  }
+}
