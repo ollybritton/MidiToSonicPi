@@ -1,9 +1,10 @@
 {
   "settings": {
-    "path": "data.json",
+    "path": "examples/furelise.json",
     "synth": "piano",
     "speed_multiplier": 1,
-    "pretty": "true",
-    "cutoff": 100
+    "pretty": true,
+    "cutoff": 200,
+    "shift": 0
   }
 }
